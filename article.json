@@ -1,0 +1,17 @@
+{
+	"title": "Using Async (Video)",
+	"description": "Using the Async library to handle asynchronous flow",
+	"date": "Sun, 05 Aug 2012 18:07:44 GMT",
+	"tags": ["async", "flow", "control"],
+	"authors": [
+    { "name": "Pedro Teixeira",
+		  "email": "pedro.teixeira@gmail.com",
+		  "url": "https://github.com/pgte",
+		  "twitter": "http://twitter.com/pgte"
+    }
+	],
+	"difficulty": 6,
+  "categories": [
+    ["Asynchronous Programming"]
+  ]
+}
